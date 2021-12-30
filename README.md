@@ -10,7 +10,7 @@ console.log(Hello world! ")
 
 2)java
 ====
-system.out.println("Hello world!")
+System.out.println("Hello world!")
 
 3)python
 ======
