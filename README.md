@@ -19,3 +19,7 @@ print("Hello world")
 4)c++
 ===
 cout<<"Hello world";
+
+5)C
+===
+printf("Hello world");
