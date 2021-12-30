@@ -23,3 +23,11 @@ cout<<"Hello world";
 5)C
 ===
 printf("Hello world");
+
+6)Swift
+===
+print("Hello World")
+
+7)Ruby
+===
+puts "Hello World"
